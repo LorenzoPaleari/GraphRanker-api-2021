@@ -33,6 +33,13 @@ make
 
 This will generate the executable file named `executable`.
 
+Come testcase are zipped
+
+```bash
+cat private/input/inputs_part_* > private/input/inputs.tar.bz2
+tar -xvjf private/input/inputs.tar.bz2
+```
+
 ## Usage
 
 To run the program, provide input through standard input. The input format must adhere to the specifications for Dijkstra's algorithm and the Red-Black Tree.
