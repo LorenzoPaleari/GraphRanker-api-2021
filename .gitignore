@@ -1,0 +1,34 @@
+# Ignore object files and executables
+*.o
+*.out
+*.exe
+
+# Ignore generated files
+*.dSYM/
+
+# macOS Finder metadata
+*.DS_Store
+__MACOSX/
+
+# macOS resource forks
+._*
+
+# macOS Trash folder
+.Trashes
+
+# macOS Spotlight files
+.Spotlight-V100
+.TemporaryItems
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA / JetBrains IDEs
+.idea/
+*.iml
+out/
+
+#temp
+temp/
+callgrind_*
