@@ -6,7 +6,7 @@ Algorithms and Principles of Informatics Project - Politecnico di Milano - Acade
 
 This project, developed as part of a course at POLIMI, implements a Red-Black Tree and Dijkstra's algorithm to efficiently find the shortest paths in a directed, weighted graph. The program is designed to read input from standard input, process the data, and perform various operations, including insertion into the Red-Black Tree and heap operations for Dijkstra's algorithm.
 
-This project has been awarded a grade of $30/30$ cum laude.
+**Final grade**: $30/30\ cum\ laude$
 
 ### Key Features
 
